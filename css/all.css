@@ -1,0 +1,38 @@
+﻿/* CSS Document */
+*{margin:0px;padding:0px;}
+body{font-family:Arial,Verdana,"微软雅黑","宋体";}
+input{outline:none;}
+img{border:0px;/*去掉图片链接的边框*/vertical-align:middle;}
+.clear{clear:both;height:0px;line-height:0px;font-size:0px;overflow:hidden;/*内容超出：隐藏*/}	
+ul,ol,li{list-style:none;}	
+a{text-decoration:none; color:#333;}
+a:hover{color:#F00;}
+.fl{float:left;}
+.fr{float:right;}	
+.section{width:968px;margin-left:auto;margin-right:auto;}	
+.section_big{min-width:968px;margin-left:auto;margin-right:auto;}
+.ml5{margin-left:5px;}
+.mr5{margin-right:5px;}
+.mt5{margin-top:5px;}	
+.mb5{margin-bottom:5px;}
+.ml10{margin-left:10px;}
+.mr10{margin-right:10px;}
+.mt10{margin-top:10px;}
+.mb10{margin-bottom:10px;}
+.ml15{margin-left:15px;}
+.mr15{margin-right:15px;}
+.mt15{margin-top:15px;}
+.mb15{margin-bottom:15px;}
+.ml20{margin-left:20px;}
+.mr20{margin-right:20px;}
+.mt20{margin-top:20px;}
+.mb20{margin-bottom:20px;}
+.pt20{ padding-top:20px; }
+.c_red{color:#F00;}
+.c_yellow{color:#FF0;}
+.c_blue{color:#00f;}
+.c_orange{color:#f60;}
+.c_333{color:#333;}
+.c_666{color:#666;}
+.c_999{color:#999;}
+	
